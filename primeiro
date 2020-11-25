@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>Código CSS</title>
+</head>
+<body>
+<h1 style="font-style: italic;">Sou a tag h1</h1>
+
+<p style="color:red;">Lorem</p>
+
+<p style="color:red;">Lorem.</p>
+
+</body>
+</html>
